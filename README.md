@@ -406,5 +406,4 @@ function printReport() {
 
 </script>
 
-</body>
-</html>
+
